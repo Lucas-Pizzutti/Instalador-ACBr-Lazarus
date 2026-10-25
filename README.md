@@ -7,6 +7,8 @@ Instalador gratuito de componentes ACBr para Lazarus no Windows, com suporte a I
 
 Projeto independente, sem vínculo oficial com o Projeto ACBr ou o Lazarus.
 
+Encontrando qualquer erro, me avise que procurarei uma correção.
+
 ## Requisitos
 
 - Windows com .NET Framework 4.8.
